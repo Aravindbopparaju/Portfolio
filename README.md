@@ -91,5 +91,3 @@ Every push to the `main` branch triggers a new deployment.
 * Portfolio: https://aravindbopparaju-portfolio.vercel.app
 
 ---
-
-⭐ If you like this project, feel free to star the repository!
